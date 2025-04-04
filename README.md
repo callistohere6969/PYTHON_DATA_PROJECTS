@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Overview
 
 Welcome to my analysis of the data job market, focusing on data analyst roles. This project was created out of a desire to navigate and understand the job market more effectively. It delves into the top-paying and in-demand skills to help find optimal job opportunities for data analysts.
@@ -285,3 +286,6 @@ This project was not without its challenges, but it provided good learning oppor
 # Conclusion
 
 This exploration into the data analyst job market has been incredibly informative, highlighting the critical skills and trends that shape this evolving field. The insights I got enhance my understanding and provide actionable guidance for anyone looking to advance their career in data analytics. As the market continues to change, ongoing analysis will be essential to stay ahead in data analytics. This project is a good foundation for future explorations and underscores the importance of continuous learning and adaptation in the data field.
+=======
+TODO: Need to Fill in this
+>>>>>>> 1f279a08346f46cfbd7d99e3b52744443c32c8de
